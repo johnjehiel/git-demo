@@ -3,6 +3,8 @@
 
 # Best Practices in DevOps using Git and GitHub
 
+---
+
 ## Introduction
 
 DevOps, a combination of Development and Operations practices, is revolutionizing the software development lifecycle. At the heart of DevOps lies efficient collaboration, automation, and version control. Git and GitHub are fundamental tools in the DevOps toolchain, enabling teams to manage code, collaborate seamlessly, and automate workflows. This README outlines best practices in DevOps using Git and GitHub to streamline development processes, improve collaboration, and enhance software delivery.
